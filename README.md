@@ -7,6 +7,8 @@ Description
 
 A dark theme for Forge
 
+![Screenshot of skin on Android](https://github.com/gbraad/forge-skin-night/blob/master/screenshot.png)
+
 
 Authors
 -------
