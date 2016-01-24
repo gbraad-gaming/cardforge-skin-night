@@ -10,6 +10,16 @@ A dark theme for Forge
 ![Screenshot of skin on Android](https://github.com/gbraad/forge-skin-night/blob/master/screenshot.png)
 
 
+Install
+-------
+
+```
+$ git clone http://github.com/gbraad/forge-skin-night forged_by_night
+```
+
+Copy the directory to your Android device `[device]/Forge/res/skins`
+
+
 Authors
 -------
 
